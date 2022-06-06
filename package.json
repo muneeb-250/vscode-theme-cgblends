@@ -2,9 +2,21 @@
     "name": "cg-blends",
     "displayName": "CG Blends",
     "description": "a custom theme for CG Blenders",
-    "icon":"images/ico.png",
     "version": "1.0.0",
     "publisher": "CGBlends",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/muneeb-250/vscode-theme-cgblends"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "cg blends",
+        "purple vivid theme",
+        "best vscode theme",
+        "cg blends dark",
+        "vscode dark"
+    ],
     "engines": {
         "vscode": "^1.67.0"
     },
